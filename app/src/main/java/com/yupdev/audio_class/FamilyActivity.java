@@ -302,8 +302,6 @@ public class FamilyActivity extends Activity
 			words.add(new Word("Baba",	"Father",	R.drawable.play));
 			words.add(new Word("Iya",	"Mother",	R.drawable.play));
 			words.add(new Word("Omokunrin",	"Son",	R.drawable.play));
-			words.add(new Word("Omobinrin",	"Daughter",	R.drawable.play));
-			words.add(new Word("Egbon Okunrin",	"Brother",	R.drawable.play));
 			words.add(new Word("Egbon Obinrin",	"Sister",	R.drawable.play));
 			
 			
